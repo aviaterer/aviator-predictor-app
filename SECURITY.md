@@ -13,7 +13,7 @@ We actively support and maintain the latest version of Aviator Predictor. If you
 
 If you discover a security vulnerability, please help us to ensure the safety of our users by reporting it privately. Here's how:
 
-1. **Contact Us Directly**: Email us at [security@aviator-signals-app.com](https://aviatee.github.io/aviator-predictor-app) with details about the vulnerability, including:
+1. **Contact Us Directly**: Email us at [support@aviatorpred.io](mailto:support@aviatorpred.io) with details about the vulnerability, including:
    - A clear description of the issue
    - Steps to reproduce the vulnerability
    - Any potential risks it may pose
