@@ -9,7 +9,7 @@
  </tr><table/>
 <h4 align=center>Available for Windows, iOS, and Android
 <br><br>
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
+<img src="https://media1.giphy.com/media/Cfiid6I8YDKqrCxAaY/200w.gif?cid=82a1493b97t2jx72hij10kdj2pea40twg8f5eeqva5rg7tna&ep=v1_gifs_related&rid=200w.gif&ct=g" width="200">
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <br><br>
