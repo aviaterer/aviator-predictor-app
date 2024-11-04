@@ -1,5 +1,5 @@
 <h3 align=center>
-<img src='https://www.thegremlin.co.za/wp-content/uploads/2024/01/1-2.jpg'>
+<img src='https://repository-images.githubusercontent.com/809727845/0fd36453-8adb-4847-9294-c205320f9c95'>
 </h3>
 <h3 align=center>
 <table align=center> <tr>
